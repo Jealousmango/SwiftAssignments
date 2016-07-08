@@ -1,2 +1,2 @@
-# SwiftAssignments
-Collection of assignments worked on while attending Coding Dojo.
+# iOS Quiz
+Assignment worked on while attending Coding Dojo.
